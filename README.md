@@ -22,3 +22,8 @@ After hot reload support:
 Iteration time: ~9 seconds
 
 The system dramatically improved development speed by eliminating repeated database reads, object reconstruction, and process startup overhead during backtesting sessions.
+
+
+## Get started
+
+Just don't. You'll need your own alpaca.market api key and secret. So I would't even bother really.
